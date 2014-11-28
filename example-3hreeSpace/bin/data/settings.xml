@@ -1,0 +1,9 @@
+<settings>
+	<myThresholdPixelIsChanged>50</myThresholdPixelIsChanged>
+	<myThresholdMovement>0.05</myThresholdMovement>
+	<myEqualParameters>
+		<front>0.05</front>
+		<mid>0.10</mid>
+		<back>0.15</back>
+	</myEqualParameters>
+</settings>
